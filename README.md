@@ -1,5 +1,5 @@
-# Project Yellow House
-A pilot/poc project for Strawberry Caramel House IoT
+# Project White House
+A pilot/poc project for my house IoT
 
 ## TODO's
 - **Home Assistance**: Set this up
@@ -8,7 +8,7 @@ A pilot/poc project for Strawberry Caramel House IoT
 - **Initialize Frontend**: What should we use?
   - **React Native**
   - **Flutter**
-- **Initialize Backend**: Technology Stack (Minerva model)
+- **Initialize Backend**: Technology Stack
   - **Java Spring Boot** Reactive RESTFul (both in-house and BFF)
 - **Initialize Container**: Determine which Container service to use
   - **Docker** or **Docker Compose**
@@ -23,18 +23,7 @@ A pilot/poc project for Strawberry Caramel House IoT
 ---
 
 ## Features
-Let's see what we're gonna do. It's the app for the whole property's system.
-
-### Universal
-The global/common features that the whole lot requires
-- **Time**
-- **Schedule**
-  - **Users**
-  - **Systems**
-- **Profile**
-  - **Household**
-  - **Guests**
-- **Contacts**
+TODO: Let's see what we're gonna do. It's the app for the whole property's system.
 
 ### Smart Home / IoT
-This lot needs to first setup the IoT capabilities. Google is a good option
+This lot needs to first setup the IoT capabilities. Home Assistance is a good option
