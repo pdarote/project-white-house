@@ -2,6 +2,9 @@
 A pilot/poc project for my house IoT
 
 ## TODO's
+- **Initialize CI**: What should we use?
+  - **GitHub Actions** is a powerful tool for CI
+  - **Jenkins** with a physical CI server
 - **Home Assistance**: Set this up
   - **On Docker**
   - **On RaspberryPi**
@@ -13,9 +16,6 @@ A pilot/poc project for my house IoT
 - **Initialize Container**: Determine which Container service to use
   - **Docker** or **Docker Compose**
   - **k8/Minikube** is a great tool
-- **Initialize CI**: What should we use?
-  - **GitHub Actions** is a powerful tool for CI
-  - **Jenkins** with a physical CI server
 - **Choose a Cloud Service**: Decide whether to use Could or perhaps the same laptop as the CI
   - **AWS** is an option. Need to get that certificate first
   - **Google Cloud** is an option. Need to get that certificate first
