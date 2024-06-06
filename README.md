@@ -3,11 +3,11 @@ A pilot/poc project for my house IoT
 
 ## TODO's
 - **Initialize CI**: What should we use?
-  - ⏸️ **GitHub Actions** is a powerful tool for CI
-  - ⏸️ **Jenkins** with a physical CI server
+  - [ ] **GitHub Actions** is a powerful tool for CI
+  - [ ] **Jenkins** with a physical CI server
 - **Home Assistance**: Set this up
-  - ✅ **On Docker**
-  - ⏸️ **On RaspberryPi**
+  - [x] **On Docker**
+  - [ ] **On RaspberryPi**
 
 ---
 
